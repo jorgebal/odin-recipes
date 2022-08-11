@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.content-recipes{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    font-size: 1.3em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.content-recipes h1{
+    font-size: 3em;
+    text-align: center;
+}
+.content-recipes img {
+    width: 60%;
+    height: auto;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.content-recipes li{
+    margin-bottom: 20px;
+}
